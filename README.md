@@ -15,7 +15,7 @@ A Web app that can be used to analyze motor vehicle collisions in NYC. This web 
 
 ## Usage and Setup
 
-It is recommended to use a virtual environment to run this app.
+It is recommended to use a virtual environment to run this app. You can use virtualenv or conda to create a virtual environment.
 
 ```bash
 git clone https://github.com/iamanuragmahendru/NYC-motorvehicle-collision-analysis.git
